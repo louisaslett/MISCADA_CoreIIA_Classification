@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.pdf
+
+!Data
+Data/*
+!Data/README.md
+
+!Plots
+Plots/*
+!Plots/README.md
+
